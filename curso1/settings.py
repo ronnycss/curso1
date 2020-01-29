@@ -25,7 +25,7 @@ SECRET_KEY = 'oh_n$0!kl4c7a$vi1j05yto!+dkc4@d5k37vg!opi($nf!&72@'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['curso1-rcs.herokuapp.com']
 
 
 # Application definition
